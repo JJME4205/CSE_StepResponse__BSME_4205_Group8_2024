@@ -6,7 +6,6 @@ close all
 % Plant with Time Delay
 % G(s) = 6*s^4 + 5*s^3 + 4*s^2 + 3*s + 2 / s^5 + 2*s^4 + 3*s^3 + 4*s^2 + 5*s + 1
 
-
 j5 = 6;
 j4 = 5;
 j3 = 4;
@@ -26,10 +25,8 @@ G7 = tf(G7_num,G7_den)
 % step response
 step(G7,0:0.1:20)
 
-%% Define Transfer Function
 % Nonlinear System Approximation
 % G(s) = 10*s^4 + 8*s^3 + 6*s^2 + 4*s + 2 / s^5 + 3*s^4 + 5*s^3 + 7*s^2 + 9*s + 1
-
 
 m5 = 10;
 m4 = 8;
