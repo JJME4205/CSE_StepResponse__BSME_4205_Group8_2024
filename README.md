@@ -13,6 +13,8 @@ This is for Laboratory #2 in CSE
 ![Number_4](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159040752/4b524214-ba08-48bb-8cc4-28eb8e860630)
 ![Number_4_Simulink](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159040752/d5e349c9-5082-4088-9423-a7a12458f372)
 5. Resonant System
-
-6.
-
+![Number_5](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159036967/e41d02db-5cd8-4471-98f3-96a3ecdf3f45)
+![Number_5_Simulink](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159036967/5d009d49-f5cb-4622-a304-8b8b6f405967)
+7. Electrical Filter with Multiple Poles
+![Number_6](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159036967/95365a6d-370c-4ebb-80c0-b051a14e7ae4)
+![Number_6_Simulink](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159036967/1fac7446-eda0-4d1e-a70f-3884ac2e107e)
