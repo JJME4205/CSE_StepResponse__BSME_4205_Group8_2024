@@ -3,7 +3,6 @@ clear
 clc
 close all
 
-%% Define Transfer Function
 % Plant with Time Delay
 % G(s) = 6*s^4 + 5*s^3 + 4*s^2 + 3*s + 2 / s^5 + 2*s^4 + 3*s^3 + 4*s^2 + 5*s + 1
 
