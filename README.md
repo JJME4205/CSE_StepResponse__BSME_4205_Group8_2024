@@ -8,6 +8,7 @@ This is for Laboratory #2 in CSE
 ![Numbers_2_Simulink](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159037171/8fc067be-b99d-460d-85a2-f8c2f73a4ede)
 3. Second Order Critically Damped System
 ![Number_3](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159040752/1bf12821-700c-404a-9d5d-351c510f1554)
+![Number_3_Simulink](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159040752/4fde6ab1-b90e-4644-8e82-0930a096d39a)
 
 
 
