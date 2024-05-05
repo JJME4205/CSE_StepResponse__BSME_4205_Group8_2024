@@ -11,6 +11,8 @@ This is for Laboratory #2 in CSE
 ![Number_3_Simulink](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159040752/4fde6ab1-b90e-4644-8e82-0930a096d39a)
 4. First Order System
 ![Number_4](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159040752/4b524214-ba08-48bb-8cc4-28eb8e860630)
+![Number_4_Simulink](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159040752/d5e349c9-5082-4088-9423-a7a12458f372)
+
 
 
 
