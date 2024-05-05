@@ -15,6 +15,6 @@ This is for Laboratory #2 in CSE
 5. Resonant System
 ![Number_5](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159036967/e41d02db-5cd8-4471-98f3-96a3ecdf3f45)
 ![Number_5_Simulink](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159036967/5d009d49-f5cb-4622-a304-8b8b6f405967)
-7. Electrical Filter with Multiple Poles
+6. Electrical Filter with Multiple Poles
 ![Number_6](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159036967/95365a6d-370c-4ebb-80c0-b051a14e7ae4)
 ![Number_6_Simulink](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159036967/1fac7446-eda0-4d1e-a70f-3884ac2e107e)
