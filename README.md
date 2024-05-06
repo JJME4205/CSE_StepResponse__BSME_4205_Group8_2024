@@ -19,6 +19,10 @@ This is for Laboratory #2 in CSE
 ![Number_6](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159036967/95365a6d-370c-4ebb-80c0-b051a14e7ae4)
 ![Number_6_Simulink](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159036967/1fac7446-eda0-4d1e-a70f-3884ac2e107e)
 7. Plant with Time Delay
-
+![Number_7](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159086810/40e6247a-69a3-4a58-b216-52c14f834f03)
+![Number_7_Simulink](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159086810/ccabdd9d-0b7b-4082-ab3d-c7496155bf4d)
 8. Nonlinear System Approximation
+![Number_8](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159086810/fe3f3323-ded0-4e80-91e3-60acf6abd7fd)
+![Number_8_Simulink](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159086810/8aec4baa-78c9-4a43-80f3-314e1997dd08)
+
 
