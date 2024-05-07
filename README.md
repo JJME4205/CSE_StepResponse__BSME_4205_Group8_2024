@@ -17,10 +17,10 @@ This is for Laboratory #2 in CSE
 ![Number_4](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159040752/4b524214-ba08-48bb-8cc4-28eb8e860630)
 ![Number_4_Simulink](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159040752/d5e349c9-5082-4088-9423-a7a12458f372)
 5. Resonant System
-![Number_5](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159036967/e41d02db-5cd8-4471-98f3-96a3ecdf3f45)
+![Number_5](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159036967/0169225a-8243-4b18-80ba-0e9ec77d3976)
 ![Number_5_Simulink](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159036967/53ab95e3-1248-420c-a80b-62ca60832c66)
 6. Electrical Filter with Multiple Poles
-![Number_6](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159036967/95365a6d-370c-4ebb-80c0-b051a14e7ae4)
+![Number_6](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159036967/d96848a7-a16f-43a1-9175-c8aa83c9e452)
 ![Number_6_Simulink](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159036967/51f6118b-643e-4f2f-ae48-77b87eaf62f6)
 7. Plant with Time Delay
 ![Number_7](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159086810/40e6247a-69a3-4a58-b216-52c14f834f03)
