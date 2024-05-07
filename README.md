@@ -11,8 +11,8 @@ This is for Laboratory #2 in CSE
 ![image](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159037171/0bd08b09-4473-4ee8-aa3a-1e8732d60a70)
 ![image](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159037171/df98e1c0-98d2-4eac-8fa9-08a808139d5a)
 3. Second Order Critically Damped System
-![Number_3](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159040752/1bf12821-700c-404a-9d5d-351c510f1554)
-![Number_3_Simulink](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159040752/4fde6ab1-b90e-4644-8e82-0930a096d39a)
+![Number_3](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159040752/b844c302-18c3-4e71-a720-2b022fd91afd)
+![Number_3_Simulink](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159040752/e5ca25b9-0f69-4c5b-bdb6-79d2f1630310)
 4. First Order System
 ![Number_4](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159040752/4b524214-ba08-48bb-8cc4-28eb8e860630)
 ![Number_4_Simulink](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159040752/d5e349c9-5082-4088-9423-a7a12458f372)
