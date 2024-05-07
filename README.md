@@ -16,9 +16,8 @@ This is for Laboratory #2 in CSE
 ![Number_3](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159040752/c5d6d6e6-bff7-403a-aed1-57ca6309f356)
 ![Number_3_Simulink](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159040752/68a6bf8e-5f3a-4fe3-972a-ef87a7b07018)
 4. First Order System
-![Number_4](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159040752/c10213d2-5d60-422a-bccd-a020a4d2aa1a)
-![Number_4_Simulink](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159040752/a5c82425-b778-42d3-a244-f214f114f260)
-
+![Number_4](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159040752/a5c82425-b778-42d3-a244-f214f114f260)
+![Number_4_Simulink](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159040752/c10213d2-5d60-422a-bccd-a020a4d2aa1a)
 5. Resonant System
 ![Number_5](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159036967/0169225a-8243-4b18-80ba-0e9ec77d3976)
 ![Number_5_Simulink](https://github.com/JJME4205/CSE_StepResponse__BSME_4205_Group8_2024/assets/159036967/53ab95e3-1248-420c-a80b-62ca60832c66)
